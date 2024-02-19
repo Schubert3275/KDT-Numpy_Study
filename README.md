@@ -1,7 +1,11 @@
 ## 통계 & numpy
 
-사용 교재
+<details>
+<summary>사용 교재</summary>
+
 ![](./images/누구나%20파이썬%20통계분석.png)
+
+</details>
 
 ### DAY01
 
